@@ -15,4 +15,4 @@ tags:								#标签
 内容主要为干涉SAR（InSAR）及永久散射体（PS-InSAR）相关（暂定）
 ## Thanks
 博客搭建Fork自[qiubaiying.github.io](https://github.com/qiubaiying/qiubaiying.github.io)  
-[教程](https://github.com/qiubaiying/qiubaiying.github.io.wiki.git)同样来自这里，特此致谢
+[教程](https://github.com/qiubaiying/qiubaiying.github.io)同样来自这里，特此致谢
