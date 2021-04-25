@@ -11,8 +11,8 @@ tags:								#标签
 ---
 # First Blog
 ## About
-学习合成孔径雷达的一点学习笔记
+学习合成孔径雷达的一点学习笔记  
+内容主要为干涉SAR（InSAR）及永久散射体（PS-InSAR）相关（暂定）
 ## Thanks
-博客Fork自  
-[这里](https://github.com/qiubaiying/qiubaiying.github.io)  
-教程也是同样
+博客搭建Fork自[qiubaiying.github.io](https://github.com/qiubaiying/qiubaiying.github.io)  
+[教程](https://github.com/qiubaiying/qiubaiying.github.io.wiki.git)同样来自这里，特此致谢
